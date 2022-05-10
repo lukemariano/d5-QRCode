@@ -1,0 +1,53 @@
+body{
+    background-color: #d6e2f0;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+.container-code{
+    width: 354px;
+    height: 560px;
+    border: 2.5px solid #fff;
+    border-radius: 3%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 4px 4px #acacac;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  
+}
+
+.imagem {
+    padding-top: 20px;
+}
+
+.texto{
+    padding: 25px;
+}
+
+
+.qr-code{
+    max-width: 90%;
+    max-height: 72%;
+    width: auto;
+    height: auto;
+    border-radius: 3%;
+    
+}
+
+.fonte-titulo{
+    font-weight: 700;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+.fonte-texto{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgb(113, 116, 120);
+}
+
+
+
